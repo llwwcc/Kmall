@@ -1,0 +1,14 @@
+.DS_Store
+*.mp3
+*.ogg
+*.wav
+*.mp4
+*.webm
+**/node_modules
+**/dist
+**/public/uploads
+**/db
+*.jpg
+*.png
+*.jpeg
+!**/miniprogram/images
